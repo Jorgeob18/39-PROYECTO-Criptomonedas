@@ -1,8 +1,7 @@
 {
-  
   "name": "CryptoCurrency APP",
   "short_name": "CCAPP",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0d2235",
   "theme_color": "#0d2235",
